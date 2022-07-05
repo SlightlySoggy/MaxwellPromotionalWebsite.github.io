@@ -113,6 +113,6 @@ Currently employed at Coco Fresh Tea & Juice as a sales associate
 
 Todo list
 - [ ] Work on formating 
-- [x]Brainstorm points
+- [x] Brainstorm points
 - [ ] Provide pictures 
 - [ ] Understand how md files work
