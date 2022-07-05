@@ -17,14 +17,27 @@ Chinese
 
 - [x] Flag (i.e. image): 
 
-![This is an image](https://cdn.britannica.com/68/7068-004-7848FEB4/Flag-Canada.jpg)
+![Canadian Flag](https://cdn.britannica.com/68/7068-004-7848FEB4/Flag-Canada.jpg)
 
 - [ ] Language (i.e. text name, auditory file of speaking something with English translation, YouTube Video with Closed Captions and Translation turned on),
-- [ ] speak English in classroom, what about other places like home
+
+English and Chinese (Audio Files Will Be Added Later)
 
 #### **Identity**
-- [ ] Birth place | Full Name (written in English and in other language)
+- [x] Birth place 
+
+Born in the city of Edmonton in Alberta, Canada
+
+![Edmonton City](http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcRja3p0-TepfnqZ3xFKkrhsxcTWaBrTBpkKYNb6SbV4WoockeXVwjmtrcTDpGzxV5By)
+
+- [x] Full Name (written in English and in other language)
+
+Full name is Maxwell Huoda Li
+
 - [ ] Nick names (aka) that friends and family give you 
+
+Max
+
 - [ ] Culture & Customs Examples
 - [ ] Religion & Customs, whatever is applicable (answers: what you do at elders' homes, etc.) 
 - [ ] Cultural Food (i.e. images and videos) 
