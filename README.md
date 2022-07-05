@@ -1,8 +1,8 @@
 # Maxwell Promotional Website
-A promotional website for Maxwell Li
+A website describing the endeavors, feats, and future plans of Maxwell Li
 
 ---
-Promotional Website Planning
+##Promotional Website Planning
 - Checklist
 
 Todo list
