@@ -63,22 +63,15 @@ I have many many hobbies that I spend my days doing aside from work and school
 
         - Vagabond ![Chainsaw Man](https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Vagabond_%28manga%29_vol._1.png/220px-Vagabond_%28manga%29_vol._1.png)
 
+2. Taking Nature Walks
 
-    
+3. Drawing
 
+4. Playing Sports
 
-2.
-3.
-4.
-5.
-6.
+5. Volunteering
 
-
-- [ ] Sports 
-- [ ] Habits 
-- [ ] Daily Routines (.e. during school days, during weekends, during holidays) 
-- [ ] Religion (if this applies) 
-- [ ] Personality
+6. Learning New Things
 
 #### **Skills**
 - [ ] memory, recognizing patterns, communication skills about ideas
@@ -86,6 +79,37 @@ I have many many hobbies that I spend my days doing aside from work and school
 - [ ] interpersonal skills: communication, nurturing others, protecting others,
  
 #### **Achievements**
+
+- [x] Sports
+
+Volleyball city champion 
+
+- [x] First Aid
+
+Basic first aid training
+
+- [x] Volunteering
+
+Over 300 collective volunteer hours with the edmonton food bank, NDP, CBA, etc.
+
+- [x] School
+
+Consecutive 4 years of honours
+
+Grade 10 and Grade 11 Student Representative at Lillian Osborne
+
+- [x] Titles
+
+Student Representative and Lillian Osborne Student Senator
+
+#### **Work Experience**
+
+- [x] Currently Employed
+
+Currently employed at Coco Fresh Tea & Juice as a sales associate 
+
+
+### **Author Page || Brainstorming and Todo List** 
 
 Todo list
 - [ ] Work on formating 
