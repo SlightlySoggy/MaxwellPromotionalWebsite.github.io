@@ -1,4 +1,4 @@
-# Maxwell-Promotional-Website.github.io
+# Maxwell Promotional Website
 A promotional website for Maxwell Li
 
 ---
