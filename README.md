@@ -34,20 +34,46 @@ Born in the city of Edmonton in Alberta, Canada
 
 Full name is Maxwell Huoda Li
 
-- [ ] Nick names (aka) that friends and family give you 
+- [x] Nick names (aka) that friends and family give you 
 
 Max
 
-- [ ] Culture & Customs Examples
-- [ ] Religion & Customs, whatever is applicable (answers: what you do at elders' homes, etc.) 
-- [ ] Cultural Food (i.e. images and videos) 
-- [ ] Cultural Celebrations
-
 #### **Ideals**
-- [ ] How do I want to represent myself online?
+- [x] How do I want to represent myself online?
+
+I want to use the internet as a tool to benefit not only myself but also those around me. For that reason, I often find that I present myself online similarly to how I present myself inperson. 
 
 #### **Hobbies**
-- [ ] Hobbies 
+- [x] Hobbies
+
+I have many many hobbies that I spend my days doing aside from work and school
+1. Watching Anime!
+    - I spend a lot of my time watching manga, anime, and movies, over 430 days total in fact. 
+    - Here are my top 3 anime of all time: 
+        - Evangelion ![Evangelion](https://cdn.vox-cdn.com/thumbor/Xp-1OjSL7fTHu-EhVQ0PDkExxjA=/0x0:1200x750/920x613/filters:focal(504x279:696x471):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/62562670/neon_genesis_evangelion.0.jpg)
+
+        - Clannad ![Clannad](https://www.scrolldroll.com/wp-content/uploads/2021/12/clannad-best-anime-series-750x430.jpg)
+
+        - Cowboy Bebop ![Cowboy Bebop](https://images-na.ssl-images-amazon.com/images/I/81Ong-2+m2L._RI_.jpg)
+
+    - Here are my top 3 manga of all time:
+        - Goodnight Punpun ![Goodnight Punpun](https://dw9to29mmj727.cloudfront.net/promo/2016/5338-SeriesHeaders_Tier01_Punpun_2000x800v2.jpg)
+
+        - Chainsaw Man ![Chainsaw Man](https://dynamic.indigoimages.ca/v1/books/books/1974709930/1.jpg?quality=10&sale=0)
+
+        - Vagabond ![Chainsaw Man](https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Vagabond_%28manga%29_vol._1.png/220px-Vagabond_%28manga%29_vol._1.png)
+
+
+    
+
+
+2.
+3.
+4.
+5.
+6.
+
+
 - [ ] Sports 
 - [ ] Habits 
 - [ ] Daily Routines (.e. during school days, during weekends, during holidays) 
