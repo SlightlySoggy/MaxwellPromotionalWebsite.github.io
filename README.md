@@ -7,10 +7,12 @@ This is where all planning will be noted during the creation of this website
 
 ### **Author Page || Points of interest regarding Maxwell Li** 
 #### **Background**
-- [ ] Nationality:
-- [ ] Ethnicity:
-- [ ] Country (i.e. image, map image)
-- [ ] Flag (i.e. image)
+- [ ] Nationality: Canadian
+- [ ] Ethnicity: Chinese
+- [ ] Flag (i.e. image): 
+
+![This is an image](https://cdn.britannica.com/68/7068-004-7848FEB4/Flag-Canada.jpg)
+
 - [ ] Language (i.e. text name, auditory file of speaking something with English translation, YouTube Video with Closed Captions and Translation turned on),
 - [ ] speak English in classroom, what about other places like home
 
