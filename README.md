@@ -8,10 +8,14 @@ This is where all planning will be noted during the creation of this website
 ### **Author Page || Points of interest regarding Maxwell Li** 
 #### **Background**
 - [x] Nationality: 
+
 Canadian
 
-- [ ] Ethnicity: Chinese
-- [ ] Flag (i.e. image): 
+- [x] Ethnicity: 
+
+Chinese
+
+- [x] Flag (i.e. image): 
 
 ![This is an image](https://cdn.britannica.com/68/7068-004-7848FEB4/Flag-Canada.jpg)
 
