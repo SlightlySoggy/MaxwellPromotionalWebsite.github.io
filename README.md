@@ -6,6 +6,6 @@ Promotional Website Planning
 - Checklist
 
 Todo list
-- []
-- [] 
-- [] 
+- [ ] Testing Testin
+- [ ] Test
+- [ ] Test
