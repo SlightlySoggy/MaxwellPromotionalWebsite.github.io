@@ -2,10 +2,10 @@
 **A website describing the endeavors, feats, and future plans of Maxwell Li**
 
 ---
-### Promotional Website Planning
+## Promotional Website Planning
 This is where all planning will be noted during the creation of this website
 
-Points of interest regarding Maxwell Li
+### Points of interest regarding Maxwell Li
 - 
 
 Todo list
