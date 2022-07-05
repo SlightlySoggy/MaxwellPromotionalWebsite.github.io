@@ -7,7 +7,9 @@ This is where all planning will be noted during the creation of this website
 
 ### **Author Page || Points of interest regarding Maxwell Li** 
 #### **Background**
-- [ ] Nationality: Canadian
+- [x] Nationality: 
+Canadian
+
 - [ ] Ethnicity: Chinese
 - [ ] Flag (i.e. image): 
 
