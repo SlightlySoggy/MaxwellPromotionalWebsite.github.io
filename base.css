@@ -13,6 +13,16 @@ text-align: center;
 padding: 30px 0px 10px 0px;
 }
 
+.image1 {
+  float: left;
+  padding: 0px 20px 20px 0px;
+}
+
+.image2 {
+  float: right;
+  padding: 0px 0px 20px 20px;
+}
+
 /*Space from navbar*/
 #header {
 text-align: center;
@@ -44,6 +54,14 @@ text-decoration: none;
 /* BASIC */
 
 #title {
+  font-size: 80px;
+  line-height: 80px;
+}
+
+#secondtitle {
+  text-align: center;
+  color: #497ca1;
+  text-transform: uppercase;
   font-size: 80px;
   line-height: 80px;
 }
@@ -105,7 +123,8 @@ a:link, a:visited, a:hover, a:active {
   position: relative;
   background: #464646 url(59H-from-gratisography.jpg) no-repeat center center fixed;
   background-size: cover;
- }
+}
+ 
 .description, .articlecontent {
   width: 90%;
   max-width: 1000px;
@@ -118,7 +137,7 @@ a:link, a:visited, a:hover, a:active {
   text-align: center;
 }
 .articlecontent {
-  padding-top: 50px;
+  padding-top: 0px;
   color: #ffffff;
 }
 .articlecontent h1 {
