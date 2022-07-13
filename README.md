@@ -118,7 +118,13 @@ Currently employed at Coco Fresh Tea & Juice as a sales associate
 ### **Author Page || Brainstorming and Todo List** 
 
 Todo list
-- [ ] Work on formating 
+- [x] Work on formating 
 - [x] Brainstorm points
 - [ ] Provide pictures 
-- [ ] Understand how md files work
+- [x] Understand how md files work
+- [ ] Make an about page
+- [ ] Make a posts page
+- [ ] Make an achievements page
+- [ ] Make a front page
+- [ ] Make a contact page
+- [ ] Try making a collaspable side bar
