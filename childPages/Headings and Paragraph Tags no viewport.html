@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Used by the Keyboard-->
+    <meta charset="UTF-8"> <!--UTF-8 is our qwerty keyboard-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="Maxwell Li">
+    <meta name="description" content="Learning HTML by building a simple website">
+    <meta name="keywords" content="heading tags, paragraph tab">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../base.css">
+    <link rel="stylesheet" href="../Assets/navbar.css">
+    <!-- Content give value for name or http-equiv attribute, text entry in string or array string -->
+
+    <!-- meta http-equiv="default-style" content="" --> <!-- content matches css link exactly -->
+
+    <!-- Other meta attributes to be aware of --> 
+
+    <!-- meta http-equiv="refresh" content="30"-->
+    <!-- Content forces a Internet Request to refresh webpage every "time value in seconds" -->
+    <!-- Use this when refreshes are needed-->
+
+    <!-- meta http-equiv="content-type" content="text/html; charset=UTF-8" -->
+    <!-- Already specified in the charset above-->
+
+    <title>Maxwell's Super Cool Learning html Website</title>
+    <noscript>Running JavaScript is not necessary in the HTML Page ... FYI: your feature to execute scripts is turned off</noscript>
+</head>    
+    <body>
+        <div id="header">
+            <h1>Learning HTML Website</h1>
+            <p>Maxwell Li</p>
+
+            <h2 id="title1">Headings and Paragraph Tags Page without Viewport</h2>
+        </div>
+        <title>Maxwell's Super Cool Learning html Website</title>
+
+        <nav class="navbar">
+            <div id="menu" class="menu">
+            <a class="sitename" href="../index.html">Home</a>
+            <a class="show" href="#menu">Menu</a>
+            <a class="hide" href="#hidemenu">Menu</a>
+            <ul class="menu-items">
+                <li><a href="../childPages/childTemplate.html">Templates</a></li>
+                <li><a href="../childPages/Flex Box.html">FlexBox</a></li>
+                <li><a href="Headings and Paragraph Tags with viewport.html">H/P(With VP)</a></li>
+                <li><a href="../childPages/Headings and Paragraph Tags no viewport.html">H/P(No VP)</a></li>
+                <li><a href="../childPages/Image Lesson.html">Image</a></li>
+                <li><a href="../childPages/Index with DIVs.html">Divs</a></li>
+                <li><a href="../childPages/Subs and Superscript.html">Subs/Superscripts</a></li>
+            </ul>
+            </div>
+        </nav>
+
+    <header>This is the Headings and Paragraph Tags (No viewport) Page
+        <h1>Experiemental Page, H1: Headings and Paragraph Tags Page with viewport</h1>
+        <h2>Experiemental Page, H2: Headings and Paragraph Tags Page with viewport</h2>
+        <h3>Experiemental Page, H3: Headings and Paragraph Tags Page with viewport</h3>
+        <h4>Experiemental Page, H4: Headings and Paragraph Tags Page with viewport</h4>
+        <h5>Experiemental Page, H5: Headings and Paragraph Tags Page with viewport</h5>
+        <h6>Experiemental Page, H6: Headings and Paragraph Tags Page with viewport</h6>
+    </header>
+    
+    <aside>
+        <header><h1>What this experiment is about (in the aside space)</h1></header>
+        <ul class="menu-items">
+            <li>H-tags & p-tag in section vs. section-article
+            <li>Illustration of default  regular font-size
+            <li>Illustration of default font
+            <li>Concept: different browsers will show this  differently
+            <li>Semantic-tags and a-tags have no built-in formatting
+            <li>article only?
+            <li>article-section?
+        </ul>
+    </aside>
+    <section>
+        <header>This is a section only</header>
+        <h1>H1: Bolded Same as article h2</h1>
+        <h2>H2: Same as article h1</h2>
+        <h3>H3: Getting smaller bolded</h3>
+        <h4>H4: Getting smaller bolded</h4>
+        <h5>H5: Getting smaller bolded</h5>
+        <h6>H6: Getting smaller bolded</h6>
+        <h7>H7: Defaults to standard</h7>
+        <h8>H8: Defaults to standard</h8>
+        <P>This is a paragraph tag inside a section</P>
+        <footer>Here is the footer.</footer>
+    </section>
+    <!---->
+    <section>
+        <article>
+            <header>This is a section only</header>
+            <h1>H1: Bolded Same as article h2</h1>
+            <h2>H2: Same as article h1</h2>
+            <h3>H3: Getting smaller bolded</h3>
+            <h4>H4: Getting smaller bolded</h4>
+            <h5>H5: Getting smaller bolded</h5>
+            <h6>H6: Getting smaller bolded</h6>
+            <h7>H7: Defaults to standard</h7>
+            <h8>H8: Defaults to standard</h8>
+            <P>This is a paragraph tag inside a article</P>
+            <footer>Here is the footer.</footer>
+        </article>
+    </section>
+
+    <section><article><p>This is a paragraph tag inside a section-article</p></article></section>
+</body>
+
+<div id="footer" class="footer">
+    <section><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">"Eating an apple is beyond unimaginably lame." - Maxwell Li</a></section>
+    <p> &copy Maxwell Li, powered by SlightlySoggy in GitHub</p>
+</div>
+
+</html>
