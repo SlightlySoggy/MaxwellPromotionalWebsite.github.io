@@ -1,5 +1,6 @@
 /*Navigation Bar*/
 .navbar {
+  text-align: center;
   position: fixed;
   top: 0;
   left: 0;
@@ -43,7 +44,7 @@
 /*Home Button*/
 .sitename {
   display: inline-block;
-  margin-right: 20px;
+  margin-right: 50px;
   margin-left: 10px;
 }
 a.sitename, a:visited.sitename {
@@ -53,12 +54,14 @@ a.sitename, a:visited.sitename {
 /*Menu Buttons*/
 .menu-items li {
   display: inline-block;
-  margin-right: 10px;
-  margin-left: 10px;
+  margin-right: 20px;
+  margin-left: 20px;
 }
-.menu-items a {
+
+/*.menu-items a {
   text-decoration: none;
-}
+}*/
+
 .show, .hide {
   display: none;
   padding-left: 15px;
@@ -68,10 +71,10 @@ a.sitename, a:visited.sitename {
   color: #dde1e2;
 }
 .show {
-  background-image: url(assets/down-arrow-icon.png);
+  background-image: url(Images/down-arrow-icon.png);
 }
 .hide {
-  background-image: url(assets/up-arrow-icon.png);
+  background-image: url(Images/up-arrow-icon.png);
 }
 
 /*Format Switch*/
