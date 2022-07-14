@@ -1,9 +1,17 @@
 /*Dark Background and white text*/
+/*div {
+  border: thin dotted red;
+}
+
+section {
+  border: thin dotted red;
+} */
+
 body {
 padding: 0px;
 background: #161925;
 color: rgb(255, 255, 255);
-font-size: 25px;
+font-size: 20px;
 font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -54,7 +62,7 @@ text-decoration: none;
 /* BASIC */
 
 #title {
-  font-size: 80px;
+  font-size: 50px;
   line-height: 80px;
 }
 
@@ -62,19 +70,16 @@ text-decoration: none;
   text-align: center;
   color: #497ca1;
   text-transform: uppercase;
-  font-size: 80px;
+  font-size: 40px;
   line-height: 80px;
 }
 
-h1, h2 {
-  font-family: Arial, Helvetica, sans-serif;
-  font-weight: 600;
-}
 h1 {
   font-size: 36px;
   line-height: 46px;
   color: #e0e0e0;
 }
+
 h2 {
   font-size: 24px;
   line-height: 33px;
@@ -89,13 +94,8 @@ a:link, a:visited, a:hover, a:active {
 
 /*Three column*/
 
-* {
-  box-sizing: border-box;
-}
-
 .column {
   float: left;
-  padding: 10px; /* Should be removed. Only for demonstration */
 }
 
 .left, .right {
@@ -121,8 +121,7 @@ a:link, a:visited, a:hover, a:active {
 
 .content {
   position: relative;
-  background: #464646 url(59H-from-gratisography.jpg) no-repeat center center fixed;
-  background-size: cover;
+  background: #464646;
 }
  
 .description, .articlecontent {
@@ -159,7 +158,7 @@ a:link, a:visited, a:hover, a:active {
   margin-top: 40px;
   margin-bottom: 60px;
 }
-.button, .button:visited, .button-dark {
+/* .button, .button:visited, .button-dark {
   display: inline-block;
   max-width: 200px;
   margin: 50px 10px 30px 10px;
@@ -188,4 +187,4 @@ a:link, a:visited, a:hover, a:active {
 .button-dark:hover {
   color: #ffffff;
   background-color: rgba(70, 70, 70, 0.9);
-}
+} */
